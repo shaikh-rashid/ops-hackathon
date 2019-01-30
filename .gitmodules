@@ -1,0 +1,3 @@
+[submodule "SUmmaRuNNer"]
+	path = SUmmaRuNNer
+	url = https://github.com/hpzhao/SUmmaRuNNer.git
